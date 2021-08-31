@@ -1,6 +1,6 @@
 
 #pipeline for upstream QC analysis 
-
+#this analysis was performed on Harvard medical school's o2 cluster environemnt
 ## Index the reference genome 
 
 * download the updated assmbly (Mmul_10) AND annotation in GTF format here: `https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/339/765/GCF_003339765.1_Mmul_10/`
